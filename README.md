@@ -8,7 +8,8 @@ Additionally, this repository features a small project focusing on bike sales da
 
 1. [Basic Formulas](#basic-formulas)
 2. [Pivot Tables](#pivot-tables)
-3. [Lookup Formulas](#lookup-formulas)
+3. [Lookup Formulas](#lookup-formulas
+4. [charts With Pivot Tables](#charts)
 4. [Data Cleaning - Bike Sales](#data-cleaning-bike-sales)
 5. [Small Project - Bike Sales Analysis](#small-project-bike-sales-analysis)
 
@@ -39,6 +40,11 @@ In this section, you will work with lookup formulas to extract data from large t
 - **HLOOKUP** – Similar to VLOOKUP, but searches for data horizontally.
 - **INDEX-MATCH** – A more flexible alternative to VLOOKUP.
 - **XLOOKUP** (available in newer versions of Excel) – A more advanced and user-friendly function for searching and returning values from a range or table.
+## charts
+- **[Bar Chart](path/to/bar-chart.png)**
+- **[Pie Chart](path/to/pie-chart.png)**
+- **[Line Chart](path/to/line-chart.png)**
+- **[Combine Chart](path/to/Combine-Chart.png)**
 
 ## Data Cleaning - Bike Sales
 
