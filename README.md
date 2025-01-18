@@ -10,8 +10,9 @@ Additionally, this repository features a small project focusing on bike sales da
 2. [Pivot Tables](#pivot-tables)
 3. [Lookup Formulas](#lookup-formulas
 4. [charts With Pivot Tables](#charts)
-4. [Data Cleaning - Bike Sales](#data-cleaning-bike-sales)
-5. [Small Project - Bike Sales Analysis](#small-project-bike-sales-analysis)
+5. [Data analysis - on 1 to 10 number](#data-analysisi)
+6. [Data Cleaning - Bike Sales](#data-cleaning-bike-sales)
+7. [Small Project - Bike Sales Analysis](#small-project-bike-sales-analysis)
 
 ## Basic Formulas
 
